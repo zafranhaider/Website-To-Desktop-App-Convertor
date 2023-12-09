@@ -1,0 +1,5 @@
+pip install PyQt5
+pip install PyQtWebEngine
+pip install PyQt5 PyQtWebEngine
+pip install pyinstaller
+
